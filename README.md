@@ -1,6 +1,6 @@
-# CLup - Customer Lineup
+# CLup - Customer Line up
 
-RASD and DD documents of Customers Line Up, an app allowing people to safely approach shops with an online ticket during the pandemic 
+RASD and DD documents of Customers Line up, an app allowing people to safely approach shops with an online ticket during the pandemic 
 
 Google Doc (RASD, Requiremtents And Specifications Document) : https://docs.google.com/document/d/1G_2U1rIoNugzs3xtsTjbVqTpbojR-dVAVyy3CQecp8s/edit?usp=sharing
 
